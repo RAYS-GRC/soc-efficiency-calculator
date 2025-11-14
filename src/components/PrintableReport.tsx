@@ -1,0 +1,1 @@
+const PrintableReport=()=><>Report</>;export default PrintableReport;
