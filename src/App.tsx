@@ -72,7 +72,7 @@ const App: React.FC = () => {
           <div>
             <div className="app-title">SOC Efficacy Calculator</div>
             <div className="app-subtitle">
-              Based on SEBI CSCRF Annexure-N, this tool is an open-source contribution by Rajesh for the GRC community. All calculations are performed locally within your browser, ensuring that no data is transmitted, stored, or shared externally.
+              Built on SEBI CSCRF Annexure-N, this open-source tool by Rajesh supports the GRC community. All calculations run locally, with no data sent or stored.
             </div>
           </div>
           <div className="score-badge no-print">
